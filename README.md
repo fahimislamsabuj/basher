@@ -3,15 +3,7 @@ Basher
 - a script modified from Remastersys, which will now create a livecd/dvd 
 from a working BasH Linux install .
 
-For more information, please visit http://bash.broxme.com
 
-BroxMe Technology <support@broxme.com>
-BroxMe Developer Network <developer@broxme.com>
-Fahim Islam Sabuj <fahim@broxme.com>
-
-
-COMMENTS FROM REMASTERSYS' ORIGINAL AUTHOR:
-(I cannot guarantee the authenticity of these comments toward basher scripts -sef)
 
 Limitations of remastering
 ========================== 
@@ -81,8 +73,15 @@ going to be changed to suit your needs.  If you want to make changes to them, yo
 those projects off on your own.
 
 
+For more information, please visit http://bash.broxme.com
+<br >
+BroxMe Technology  <support@broxme.com>
+<br >
+BroxMe Developer Network   <developer@broxme.com>
+<br >
+Fahim Islam Sabuj   <fahim@broxme.com>
 
 
-Regards,
-Fahim Islam Sabuj
+COMMENTS FROM REMASTERSYS' ORIGINAL AUTHOR:
+(I cannot guarantee the authenticity of these comments toward basher scripts -sef)
 
