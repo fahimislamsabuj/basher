@@ -1,8 +1,10 @@
-Basher
+
+
+<h2>Build your own linux distro and share it all over the world within a moment.</h2>
+
 
 - a script modified from Remastersys, which will now create a livecd/dvd 
 from a working BasH Linux install .
-
 
 
 Limitations of remastering
