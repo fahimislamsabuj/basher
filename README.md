@@ -77,14 +77,14 @@ For more information, please visit http://bash.broxme.com
 <br >
 <h1>Contributor </h1>
 <br >
-<br>
-BroxMe Technology  <support@broxme.com>
-<br >
-BroxMe Developer Network   <developer@broxme.com>
-<br >
-Fahim Islam Sabuj   <fahim@broxme.com>
 
+BroxMe Technology <support@broxme.com>
+<br >
+BroxMe Developer Network  <developer@broxme.com>
+<br >
+Fahim Islam Sabuj  <fahim@broxme.com>
+<br >
 
-COMMENTS FROM REMASTERSYS' ORIGINAL AUTHOR:
+COMMENTS FROM REMASTERSYS' ORIGINAL AUTHOR:<br >
 (I cannot guarantee the authenticity of these comments toward basher scripts -sef)
 
