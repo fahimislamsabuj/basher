@@ -75,7 +75,9 @@ those projects off on your own.
 
 For more information, please visit http://bash.broxme.com
 <br >
-Contributor 
+<h1>Contributor </h1>
+<br >
+<br>
 BroxMe Technology  <support@broxme.com>
 <br >
 BroxMe Developer Network   <developer@broxme.com>
